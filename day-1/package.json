@@ -1,0 +1,15 @@
+{
+  "name": "fuel-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./out",
+  "scripts": {
+    "start": "tsc && node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
+}

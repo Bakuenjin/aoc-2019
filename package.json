@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day1": "cd ./day-1 && yarn install && tsc && node .",
+    "day2": "cd ./day-2 && yarn install && tsc && node .",
+    "day3": "cd ./day-3 && yarn install && tsc && node .",
+    "day4": "cd ./day-4 && yarn install && tsc && node .",
+    "day5": "cd ./day-5 && yarn install && tsc && node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
